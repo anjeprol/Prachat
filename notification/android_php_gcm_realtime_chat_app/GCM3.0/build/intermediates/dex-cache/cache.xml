@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Prolan\Escritorio\android_php_gcm_realtime_chat_app\GCM3.0\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4e47abb1ea472adf0ef1368489610ef2c2e2d475">
+        <dex dex="C:\Users\Prolan\Escritorio\android_php_gcm_realtime_chat_app\GCM3.0\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_24bb5c5739b81e71c1e73927efea7e92a73dcbe1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Prolan\Escritorio\android_php_gcm_realtime_chat_app\GCM3.0\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f46f568fd29181c18db1cffff1a7681d415fff5b">
+        <dex dex="C:\Users\Prolan\Escritorio\android_php_gcm_realtime_chat_app\GCM3.0\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_aac42e21ba8a2f3ef60a463d7ac0f07e4f05748a\classes.dex" />
+    </item>
+
+</items>

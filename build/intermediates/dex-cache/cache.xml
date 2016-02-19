@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Prolan\AndroidStudioProjects\courseJan2016\Prachat\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8027503ecd95c5433b313d9dd41186a572d3c2b5">
+        <dex dex="C:\Users\Prolan\AndroidStudioProjects\courseJan2016\Prachat\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_312040eea40b8804889eb995c8b6888f0fe520e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Prolan\AndroidStudioProjects\courseJan2016\Prachat\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="811f87392c0653ab288a0f2822a0e3b164694eca">
+        <dex dex="C:\Users\Prolan\AndroidStudioProjects\courseJan2016\Prachat\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_971e8671a3c48c9476ee67fa86c7fbfad18098fb\classes.dex" />
+    </item>
+
+</items>
